@@ -1,6 +1,14 @@
-// GitHub Pages öncesi bakkalın WhatsApp hattını ülke koduyla, yalnızca rakam yazarak girin.
-// Türkiye örneği: 905xxxxxxxxx
+﻿// Mağaza bilgileri: boş alanlar sitede teyit edilmesi gerektiği şeklinde gösterilir.
 window.BAKAL_CONFIG = {
   shopName: "Mahalle Marketi",
+  locationLabel: "",
+  address: "",
+  openingHours: "",
+  deliveryArea: "",
+  deliveryWindow: "",
+  minimumOrder: null,
+  deliveryFee: null,
+  cancellationPolicy: "",
+  supportContact: "",
   whatsappNumber: ""
 };
